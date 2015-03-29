@@ -5,5 +5,4 @@ A self-contained script that retrieves stock information from Yahoo! Finance usi
 Usage described @ http://www.gurchet-rai.net/dev/yahoo-finance-yql
 
 Dependencies:
-none
-
+requests    http://python-requests.org/
